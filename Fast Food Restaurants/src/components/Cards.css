@@ -1,0 +1,19 @@
+.cards{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border-radius: 2rem;
+    box-shadow: 0 2px 20px grey;
+}
+
+.image{
+    height: 12rem;
+    width: 100%;
+    
+}
+
+img{
+    padding: 1rem;
+    height: 200px;
+    width: 200px;
+}
